@@ -2,8 +2,6 @@
 
 ### A passionate software developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pallav27" alt="Pallav27" /></a> </p>
-
 - 👯 I'm looking to collaborate on **Impact-driven open-source projects, particularly in full-stack development, developer tooling, and system-level problem solving.**
 
 - 📫 How to reach me **pallavshrm27@gmail.com**
