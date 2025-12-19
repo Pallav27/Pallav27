@@ -10,9 +10,9 @@
 
 - ⚡ Fun fact **I love playing guitar**
 
-- 👨‍💻 All of my projects are available at **[https://pallavsharma27.netlify.app/](https://pallavsharma27.netlify.app/)**
+- 👨‍💻 My Portfolio Website **[https://pallavsharma27.netlify.app/](https://pallavsharma27.netlify.app/)**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/179pNcnnUEFBozMebL5QeTRNELz9kjApY/view?usp=sharing](https://drive.google.com/file/d/179pNcnnUEFBozMebL5QeTRNELz9kjApY/view?usp=sharing)**
+- 📄 Ny Resume **[https://drive.google.com/file/d/179pNcnnUEFBozMebL5QeTRNELz9kjApY/view?usp=sharing](https://drive.google.com/file/d/179pNcnnUEFBozMebL5QeTRNELz9kjApY/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
