@@ -2,7 +2,7 @@
 
 ### A passionate software developer
 
-- 👯 **Software engineer focused on DSA and building scalable full-stack systems (Next.js, MERN, MongoDB), real-time backends, and developer-centric tools—open to impact-driven open-source collaboration**
+- 👯 **Software engineer focused on DSA and building scalable full-stack systems (Next.js, MERN, MongoDB), real-time backends, and developer-centric tools.**
 
 - 📫 How to reach me **pallavshrm27@gmail.com**
 
