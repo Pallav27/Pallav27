@@ -10,7 +10,7 @@
 
 - 👨‍💻 My Portfolio Website **[https://pallavsharma27.netlify.app/](https://pallavsharma27.netlify.app/)**
 
-- 📄 Ny Resume **[https://drive.google.com/file/d/179pNcnnUEFBozMebL5QeTRNELz9kjApY/view?usp=sharing](https://drive.google.com/file/d/179pNcnnUEFBozMebL5QeTRNELz9kjApY/view?usp=sharing)**
+- 📄 My Resume **[https://drive.google.com/file/d/179pNcnnUEFBozMebL5QeTRNELz9kjApY/view?usp=sharing](https://drive.google.com/file/d/1A1J9QfaDyEToyqyhV6SU4RDBl_o85H26/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
